@@ -1,1 +1,1 @@
-# python_linting
+# Python Linting Configuration Files
